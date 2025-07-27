@@ -1,5 +1,10 @@
 # 💫 About Me:
-🔭 I’m currently working on Reach Networks<br>👯 I’m looking to collaborate on Dev Projects<br>🤝 I’m looking for help with Collaborators for AI Project<br>🌱 I’m currently learning Machine Learning and LLMs<br>💬 Ask me about Full Stack Development tools<br>⚡ Fun fact, I love playing keyboard and listen to lots of musics. Do suggest me good songs
+🔭 Currently building secure SaaS & IAM apps at Reach Networks  
+👯 Open to collaborating on full-stack, cloud, or AI projects  
+🤝 Interested in connecting with fellow developers and innovators  
+🌱 Learning Machine Learning, LLMs, and cloud architecture  
+💬 Ask me about Java, React, Node, security, or DevOps tools  
+⚡ Fun fact: I play keyboard and love discovering new music—send song recs!
 
 
 ## 🌐 Socials:
